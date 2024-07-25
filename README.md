@@ -1,7 +1,7 @@
 Project Name
 Real-Time Change Data Capture for Postgres Using Debezium and Kafka
 ------------------------------------------------------------------------------------------------
-Abstract of Project
+**Abstract of Project**
 
 This project implements a Change Data Capture (CDC) architecture to track changes in a 
 Postgres database in real-time. The architecture leverages Docker, Debezium, Kafka, and
