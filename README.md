@@ -34,7 +34,7 @@ particularly those requiring real-time data synchronization, such as:
 **E-commerce Platforms:** Keeping inventory levels and product information up-to-date across multiple
 sales channels.
 
-**Financial Institutions: ** Ensuring real-time updates of transaction data for fraud detection, 
+**Financial Institutions:** Ensuring real-time updates of transaction data for fraud detection, 
 risk management, and reporting.
 
 **Healthcare Providers:** Synchronizing patient records and treatment data across different systems
