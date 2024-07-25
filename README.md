@@ -1,5 +1,5 @@
 
-**Project Name**
+<u>**Project Name**</u>
 
 Real-Time Change Data Capture for Postgres Using Debezium and Kafka
 
