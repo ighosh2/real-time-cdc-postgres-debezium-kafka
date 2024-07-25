@@ -14,20 +14,34 @@ are always up-to-date, enabling more responsive and accurate data processing and
 
 -------------------------------------------------------------------------------------------------
 
-What Are We Trying to Solve
+**What Are We Trying to Solve**
 
-In many organizations, maintaining up-to-date data across multiple systems is crucial but challenging. Traditional batch processing methods can lead to delays, inconsistencies, and outdated data in downstream applications. This project aims to solve these issues by implementing a real-time data capture and streaming architecture. The goal is to minimize latency, reduce the risk of data inconsistencies, and provide a reliable way to propagate database changes instantly to other systems.
+In many organizations, maintaining up-to-date data across multiple systems is crucial but 
+challenging. Traditional batch processing methods can lead to delays, inconsistencies, and
+outdated data in downstream applications. This project aims to solve these issues by implementing
+a real-time data capture and streaming architecture. The goal is to minimize latency, reduce
+the risk of data inconsistencies, and provide a reliable way to propagate database changes 
+instantly to other systems.
 
 
 -------------------------------------------------------------------------------------------------
 
-Use Case Which Can Benefit on Implementation in Organizations
-Organizations across various industries can benefit from implementing this CDC architecture, particularly those requiring real-time data synchronization, such as:
+**Use Case Which Can Benefit on Implementation in Organizations**
 
-E-commerce Platforms: Keeping inventory levels and product information up-to-date across multiple sales channels.
-Financial Institutions: Ensuring real-time updates of transaction data for fraud detection, risk management, and reporting.
-Healthcare Providers: Synchronizing patient records and treatment data across different systems to provide accurate and timely care.
-Logistics and Supply Chain Management: Maintaining real-time visibility of shipment status and inventory levels across various locations.
+Organizations across various industries can benefit from implementing this CDC architecture,
+particularly those requiring real-time data synchronization, such as:
+
+E-commerce Platforms: Keeping inventory levels and product information up-to-date across multiple
+sales channels.
+
+Financial Institutions: Ensuring real-time updates of transaction data for fraud detection, 
+risk management, and reporting.
+
+Healthcare Providers: Synchronizing patient records and treatment data across different systems
+to provide accurate and timely care.
+
+Logistics and Supply Chain Management: Maintaining real-time visibility of shipment status
+and inventory levels across various locations.
 
 
 -------------------------------------------------------------------------------------------------
