@@ -1,7 +1,7 @@
 
-#**Project Name**
+**Project Name**
 
-#Real-Time Change Data Capture for Postgres Using Debezium and Kafka
+Real-Time Change Data Capture for Postgres Using Debezium and Kafka
 
 ------------------------------------------------------------------------------------------------
 **Abstract of Project**
@@ -31,16 +31,16 @@ instantly to other systems.
 Organizations across various industries can benefit from implementing this CDC architecture,
 particularly those requiring real-time data synchronization, such as:
 
-E-commerce Platforms: Keeping inventory levels and product information up-to-date across multiple
+**E-commerce Platforms:** Keeping inventory levels and product information up-to-date across multiple
 sales channels.
 
-Financial Institutions: Ensuring real-time updates of transaction data for fraud detection, 
+**Financial Institutions: ** Ensuring real-time updates of transaction data for fraud detection, 
 risk management, and reporting.
 
-Healthcare Providers: Synchronizing patient records and treatment data across different systems
+**Healthcare Providers:** Synchronizing patient records and treatment data across different systems
 to provide accurate and timely care.
 
-Logistics and Supply Chain Management: Maintaining real-time visibility of shipment status
+**Logistics and Supply Chain Management:** Maintaining real-time visibility of shipment status
 and inventory levels across various locations.
 
 
