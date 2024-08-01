@@ -99,4 +99,16 @@ configuration management of the Kafka cluster.
 
 Usage: Manages Kafka broker configurations, synchronization, and and naming services.
 
+------------------------------------------------------------------------------------------------
+**Future Scope of Work:**
+
+As a potential future scope , an integration of the a reporting tool like Tableau/Power BI will
+be done , where we can track in realtime the changes in the database as well as past changes
+in terms of graphical charts. This will end the end client/stakeholder to have an understanding
+of the system without delving deep into the tech side. Hence can take logical decisions 
+based on the graphical view / mapping of the system in place
+
+
+
+
 
