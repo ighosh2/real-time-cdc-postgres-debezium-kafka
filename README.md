@@ -109,6 +109,48 @@ of the system without delving deep into the tech side. Hence can take logical de
 based on the graphical view / mapping of the system in place
 
 
+Integrating Tableau with the project can provide significant benefits for clients and stakeholders
+by transforming raw data into actionable insights through interactive dashboards and visualizations. 
+Here’s how Tableau can be leveraged:
+
+Interactive Dashboards:
+
+Create dynamic and interactive dashboards that allow clients to explore the changes in the Postgres
+database in real-time. Users can drill down into specific details and filter data based on various
+parameters such as time range, type of change (insert, update, delete), and affected tables.
+Real-time Data Visualization:
+
+Connect Tableau directly to the Kafka topics or the downstream systems updated by the CDC pipeline
+to visualize real-time data changes. This enables stakeholders to monitor live updates and trends as 
+database changes are captured and processed.
+Change Trends Analysis:
+
+Visualize trends in database changes over time to identify patterns and insights. This can help 
+businesses understand the frequency and impact of changes in their data, aiding in performance tuning
+and optimization.
+
+Performance Metrics:
+
+Track key performance metrics such as the volume of changes captured, latency of data propagation, 
+and the performance of the CDC pipeline. This can provide insights into the efficiency of the data
+capture and streaming architecture.
+
+Customizable Reports:
+
+Generate customizable reports that can be shared with different departments within the organization.
+These reports can include insights tailored to the specific needs of IT operations, business intelligence,
+and other teams.
+
+Alerting and Notifications:
+
+Set up alerts and notifications within Tableau to inform stakeholders about significant changes or
+anomalies in the data. This ensures that key decision-makers are always aware of critical insights as
+they happen.
+
+Data Synchronization Monitoring:
+
+Use Tableau to monitor the synchronization status of data across various systems. This helps ensure
+data consistency and reliability, providing a clear view of the state of data across the organization.
 
 
 
